@@ -1,6 +1,5 @@
 <?php
 
-
 namespace Controller;
 
 use Core\AbstractController;
