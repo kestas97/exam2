@@ -1,0 +1,20 @@
+{
+  "name": "kestas/egzaminas",
+  "description": "kestas/egzaminas",
+  "type": "project",
+  "authors": [
+    {
+      "name": "kestas97",
+      "email": "kestutissukys97@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "": "app/code"
+    }
+  },
+  "require": {
+    "psr/log": "^1.1",
+    "ext-pdo": "*"
+  }
+}

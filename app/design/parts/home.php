@@ -1,0 +1,1 @@
+<a href="<?= $this->url('register') ?>">Registruotis</a>
